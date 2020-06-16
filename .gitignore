@@ -95,4 +95,4 @@ ENV/
 # Data
 data/
 
-checkout/
+checkpoints/
